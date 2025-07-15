@@ -8,5 +8,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptlver/champions-league-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scriptlver/champions-league-api/issues"
+  },
+  "homepage": "https://github.com/scriptlver/champions-league-api#readme",
+  "description": "",
+  "devDependencies": {
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  }
 }
