@@ -40,4 +40,7 @@ export const createPlayerService = async (player: PlayerModel) => {
         response = HttpResponse.badRequest();
     }
     return response;
-}
+};
+
+export const deletePlayerService = async (id: number) => {
+    let response = null;
