@@ -1,6 +1,6 @@
 # 🏆 Champions League API
 
-Uma API RESTful fictícia feita em Node.js com TypeScript para simular dados da UEFA Champions League, como jogadores, clubes e estatísticas. Essa API foi um desafio do Bootcamp "Meu Tudo" da DIO! ✨
+Uma API RESTful fictícia feita em Node.js com TypeScript para simular dados da UEFA Champions League, como jogadores, clubes e estatísticas. Essa API foi um desafio do Bootcamp "Meu Tudo - Mobile Developer" da DIO! ✨
 
 ---
 
